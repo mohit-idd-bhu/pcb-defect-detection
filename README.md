@@ -1,1 +1,1 @@
-##Clone of Hack-Reactor front page
+ ## Clone of Hack-Reactor front page ##
